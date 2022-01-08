@@ -1,0 +1,6 @@
+framework module Pods_Pokerzone {
+  umbrella header "Pods-Pokerzone-umbrella.h"
+
+  export *
+  module * { export * }
+}
